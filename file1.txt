@@ -1,1 +1,6 @@
-more content in file1
+<<<<<<< HEAD
+new content in file1
+=======
+new content in file1
+new content in dev branch
+>>>>>>> dev
